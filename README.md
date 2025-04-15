@@ -1,2 +1,2 @@
 # example
-an example repository
+An example repository for git and github course!
